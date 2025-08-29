@@ -141,20 +141,20 @@ app.UseAuthorization();
 app.MapControllers();
 
 // Ensure database is created and migrations applied
-//using (var scope = app.Services.CreateScope())
-//{
-//    var context = scope.ServiceProvider.GetRequiredService<DataContext>();
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<DataContext>();
 
-//    try
-//    {
-//        context.Database.Migrate();
-//        app.Logger.LogInformation("Database migration completed successfully");
-//    }
-//    catch (Exception ex)
-//    {
-//        app.Logger.LogError(ex, "An error occurred while migrating the database");
-//        throw;
-//    }
-//}
+    try
+    {
+        context.Database.Migrate();
+        app.Logger.LogInformation("Database migration completed successfully");
+    }
+    catch (Exception ex)
+    {
+        app.Logger.LogError(ex, "An error occurred while migrating the database");
+        throw;
+    }
+}
 
 app.Run();

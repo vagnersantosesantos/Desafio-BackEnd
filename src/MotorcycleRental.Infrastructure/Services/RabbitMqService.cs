@@ -123,7 +123,12 @@ namespace MotorcycleRental.Infrastructure.Services
 
                     _logger.LogInformation("Received message: {Message}", message);
 
-                    var motorcycleEvent = JsonSerializer.Deserialize<MotorcycleRegisteredEventDto>(message);
+                    var options = new JsonSerializerOptions
+                    {
+                        PropertyNameCaseInsensitive = false
+                    };
+
+                    var motorcycleEvent = JsonSerializer.Deserialize<MotorcycleRegisteredEventDto>(message, options);
 
                     if (motorcycleEvent != null && motorcycleEvent.Year == 2024)
                     {
@@ -160,6 +165,7 @@ namespace MotorcycleRental.Infrastructure.Services
 
                 var notification = new NotificationLog
                 {
+                    Id = Guid.NewGuid().ToString(),
                     MotorcycleId = motorcycleEvent.Id,
                     Message = $"2024 Motorcycle registered: {motorcycleEvent.Model} - {motorcycleEvent.LicensePlate}"
                 };

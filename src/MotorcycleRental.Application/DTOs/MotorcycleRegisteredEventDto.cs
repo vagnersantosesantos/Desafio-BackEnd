@@ -2,21 +2,19 @@
 {
     public class MotorcycleRegisteredEventDto
     {
-        private DateTime utcNow;
-
-        public MotorcycleRegisteredEventDto(string id, int year, string model, string licensePlate, DateTime utcNow)
+        public MotorcycleRegisteredEventDto(string id, int year, string model, string licensePlate, DateTime timestamp)
         {
             Id = id;
             Year = year;
             Model = model;
             LicensePlate = licensePlate;
-            this.utcNow = utcNow;
+            Timestamp = timestamp;
         }
 
-        public string Id { get; set; }
-        public int Year { get; set; }
-        public string Model { get; set; }
-        public string LicensePlate { get; set; }
-        public DateTime Timestamp { get; set; }
+        public string Id { get; }
+        public int Year { get; }
+        public string Model { get; }
+        public string LicensePlate { get; }
+        public DateTime Timestamp { get; }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\bin\Debug\net8.0\Tests.deps.json
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\bin\Debug\net8.0\Tests.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\bin\Debug\net8.0\Tests.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\Tests.sourcelink.json
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\Tests.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\refint\Tests.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\Tests.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\Tests\obj\Debug\net8.0\ref\Tests.dll

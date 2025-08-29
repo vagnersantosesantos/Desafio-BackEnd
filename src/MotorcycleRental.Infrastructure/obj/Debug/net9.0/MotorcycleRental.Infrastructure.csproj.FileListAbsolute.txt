@@ -1,0 +1,17 @@
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.AssemblyInfo.cs
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Infrastructure.deps.json
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Infrastructure.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Infrastructure.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Application.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Domain.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Application.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\bin\Debug\net9.0\MotorcycleRental.Domain.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\Motorcyc.4F6D0328.Up2Date
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\refint\MotorcycleRental.Infrastructure.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\MotorcycleRental.Infrastructure.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Infrastructure\obj\Debug\net9.0\ref\MotorcycleRental.Infrastructure.dll

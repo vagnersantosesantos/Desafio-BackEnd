@@ -1,0 +1,11 @@
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\bin\Debug\net9.0\MotorcycleRental.Domain.deps.json
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\bin\Debug\net9.0\MotorcycleRental.Domain.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\bin\Debug\net9.0\MotorcycleRental.Domain.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\MotorcycleRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\MotorcycleRental.Domain.AssemblyInfoInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\MotorcycleRental.Domain.AssemblyInfo.cs
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\MotorcycleRental.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\MotorcycleRental.Domain.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\refint\MotorcycleRental.Domain.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\MotorcycleRental.Domain.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Domain\obj\Debug\net9.0\ref\MotorcycleRental.Domain.dll

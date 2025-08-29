@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVniZm40yJo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vagner_santos\\source\\repos\\Vganer\\Desafio-BackEnd\\src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vagner_santos\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\vagner_santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\vagner_santos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.8\\microsoft.extensions.logging.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\vagner_santos\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\vagner_santos\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

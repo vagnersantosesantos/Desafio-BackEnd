@@ -1,0 +1,15 @@
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\bin\Debug\net9.0\MotorcycleRental.Application.deps.json
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\bin\Debug\net9.0\MotorcycleRental.Application.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\bin\Debug\net9.0\MotorcycleRental.Application.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\bin\Debug\net9.0\MotorcycleRental.Domain.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\bin\Debug\net9.0\MotorcycleRental.Domain.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.csproj.AssemblyReference.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.AssemblyInfoInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.AssemblyInfo.cs
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.csproj.CoreCompileInputs.cache
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\Motorcyc.2541AABC.Up2Date
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\refint\MotorcycleRental.Application.dll
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\MotorcycleRental.Application.pdb
+C:\Users\vagner_santos\source\repos\MotorcycleRental\src\MotorcycleRental.Application\obj\Debug\net9.0\ref\MotorcycleRental.Application.dll

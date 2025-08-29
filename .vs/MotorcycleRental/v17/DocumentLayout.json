@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\tests\\motorcyclerental.tests\\servicestests\\rentalservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|solutionrelative:tests\\motorcyclerental.tests\\servicestests\\rentalservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\tests\\motorcyclerental.tests\\servicestests\\motorcycleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|solutionrelative:tests\\motorcyclerental.tests\\servicestests\\motorcycleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\services\\motorcycleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\services\\motorcycleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\tests\\motorcyclerental.tests\\servicestests\\deliverydriverservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|solutionrelative:tests\\motorcyclerental.tests\\servicestests\\deliverydriverservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\services\\deliverydriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\services\\deliverydriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\tests\\motorcyclerental.tests\\controllerstests\\rentalscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|solutionrelative:tests\\motorcyclerental.tests\\controllerstests\\rentalscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\returnrentaltotalcoastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\returnrentaltotalcoastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\interfaces\\services\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\interfaces\\services\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\returnrentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\returnrentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\rentalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\rentalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\tests\\motorcyclerental.tests\\controllerstests\\motorcyclescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|solutionrelative:tests\\motorcyclerental.tests\\controllerstests\\motorcyclescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\tests\\motorcyclerental.tests\\controllerstests\\deliverydriverscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910C582-7413-4D47-8FC5-ED17C9869517}|tests\\MotorcycleRental.Tests\\MotorcycleRental.Tests.csproj|solutionrelative:tests\\motorcyclerental.tests\\controllerstests\\deliverydriverscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.infrastructure\\data\\mappings\\deliverydrivermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|solutionrelative:src\\motorcyclerental.infrastructure\\data\\mappings\\deliverydrivermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\createdeliverydriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\createdeliverydriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4217BA52-9C63-47C2-9989-2470D24F57F2}|src\\MotorcycleRental.Domain\\MotorcycleRental.Domain.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.domain\\entities\\deliverydriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4217BA52-9C63-47C2-9989-2470D24F57F2}|src\\MotorcycleRental.Domain\\MotorcycleRental.Domain.csproj|solutionrelative:src\\motorcyclerental.domain\\entities\\deliverydriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.infrastructure\\repositories\\motorcyclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|solutionrelative:src\\motorcyclerental.infrastructure\\repositories\\motorcyclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.infrastructure\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|solutionrelative:src\\motorcyclerental.infrastructure\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4217BA52-9C63-47C2-9989-2470D24F57F2}|src\\MotorcycleRental.Domain\\MotorcycleRental.Domain.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.domain\\entities\\notificationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4217BA52-9C63-47C2-9989-2470D24F57F2}|src\\MotorcycleRental.Domain\\MotorcycleRental.Domain.csproj|solutionrelative:src\\motorcyclerental.domain\\entities\\notificationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.infrastructure\\repositories\\notificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|solutionrelative:src\\motorcyclerental.infrastructure\\repositories\\notificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\interfaces\\repositories\\inotificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\interfaces\\repositories\\inotificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\motorcycleregisteredeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\motorcycleregisteredeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\interfaces\\repositories\\imotorcyclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\interfaces\\repositories\\imotorcyclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\interfaces\\services\\ideliverydriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\interfaces\\services\\ideliverydriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\deliverydriverresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\deliverydriverresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.infrastructure\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841E7440-0F0B-4C7A-BACB-CA8264146EA0}|src\\MotorcycleRental.Infrastructure\\MotorcycleRental.Infrastructure.csproj|solutionrelative:src\\motorcyclerental.infrastructure\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\interfaces\\repositories\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\interfaces\\repositories\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|c:\\users\\vagner_santos\\source\\repos\\motorcyclerental\\src\\motorcyclerental.application\\dtos\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F43F8-2E99-4B77-9C5F-A2B333EE24AA}|src\\MotorcycleRental.Application\\MotorcycleRental.Application.csproj|solutionrelative:src\\motorcyclerental.application\\dtos\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotorcycleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ServicesTests\\MotorcycleServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MotorcycleRental.Tests\\ServicesTests\\MotorcycleServiceTests.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ServicesTests\\MotorcycleServiceTests.cs",
+              "RelativeToolTip": "Tests\\MotorcycleRental.Tests\\ServicesTests\\MotorcycleServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:30:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryDriverServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ServicesTests\\DeliveryDriverServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MotorcycleRental.Tests\\ServicesTests\\DeliveryDriverServiceTests.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ServicesTests\\DeliveryDriverServiceTests.cs",
+              "RelativeToolTip": "Tests\\MotorcycleRental.Tests\\ServicesTests\\DeliveryDriverServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:29:11.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ControllersTests\\RentalsControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MotorcycleRental.Tests\\ControllersTests\\RentalsControllerTests.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ControllersTests\\RentalsControllerTests.cs",
+              "RelativeToolTip": "Tests\\MotorcycleRental.Tests\\ControllersTests\\RentalsControllerTests.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:59:38.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RentalResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\RentalResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\RentalResponseDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\RentalResponseDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\RentalResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:13:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Services\\RentalService.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Services\\RentalService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAnwHYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:07:38.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ServicesTests\\RentalServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MotorcycleRental.Tests\\ServicesTests\\RentalServiceTests.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ServicesTests\\RentalServiceTests.cs",
+              "RelativeToolTip": "Tests\\MotorcycleRental.Tests\\ServicesTests\\RentalServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:33:15.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorcycleService .cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Services\\MotorcycleService .cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Services\\MotorcycleService .cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Services\\MotorcycleService .cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Services\\MotorcycleService .cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:15:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReturnRentalTotalCoastDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\ReturnRentalTotalCoastDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\ReturnRentalTotalCoastDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\ReturnRentalTotalCoastDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\ReturnRentalTotalCoastDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:54:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveryDriverService.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Services\\DeliveryDriverService.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Services\\DeliveryDriverService.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Services\\DeliveryDriverService.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Services\\DeliveryDriverService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:09:36.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Services\\IRentalService.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Interfaces\\Services\\IRentalService.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Services\\IRentalService.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Interfaces\\Services\\IRentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:48:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnRentalDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\ReturnRentalDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\ReturnRentalDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\ReturnRentalDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\ReturnRentalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:17:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MotorcyclesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ControllersTests\\MotorcyclesControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MotorcycleRental.Tests\\ControllersTests\\MotorcyclesControllerTests.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ControllersTests\\MotorcyclesControllerTests.cs",
+              "RelativeToolTip": "Tests\\MotorcycleRental.Tests\\ControllersTests\\MotorcyclesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:53:49.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliveryDriversControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ControllersTests\\DeliveryDriversControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MotorcycleRental.Tests\\ControllersTests\\DeliveryDriversControllerTests.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\Tests\\MotorcycleRental.Tests\\ControllersTests\\DeliveryDriversControllerTests.cs",
+              "RelativeToolTip": "Tests\\MotorcycleRental.Tests\\ControllersTests\\DeliveryDriversControllerTests.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAMwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:45:52.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateDeliveryDriverDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\CreateDeliveryDriverDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\CreateDeliveryDriverDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\CreateDeliveryDriverDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\CreateDeliveryDriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:12:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MotorcycleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Repositories\\MotorcycleRepository.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Infrastructure\\Repositories\\MotorcycleRepository.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Repositories\\MotorcycleRepository.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Infrastructure\\Repositories\\MotorcycleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:16:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryDriverMapping.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Data\\Mappings\\DeliveryDriverMapping.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Infrastructure\\Data\\Mappings\\DeliveryDriverMapping.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Data\\Mappings\\DeliveryDriverMapping.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Infrastructure\\Data\\Mappings\\DeliveryDriverMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:18:55.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:18:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Infrastructure\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Infrastructure\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:17:01.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MotorcycleRegisteredEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\MotorcycleRegisteredEventDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\MotorcycleRegisteredEventDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\MotorcycleRegisteredEventDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\MotorcycleRegisteredEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:17:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationLog.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Domain\\Entities\\NotificationLog.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Domain\\Entities\\NotificationLog.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Domain\\Entities\\NotificationLog.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Domain\\Entities\\NotificationLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:17:36.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeliveryDriver.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Domain\\Entities\\DeliveryDriver.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Domain\\Entities\\DeliveryDriver.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Domain\\Entities\\DeliveryDriver.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Domain\\Entities\\DeliveryDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:21:08.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INotificationLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Repositories\\INotificationLogRepository.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Interfaces\\Repositories\\INotificationLogRepository.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Repositories\\INotificationLogRepository.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Interfaces\\Repositories\\INotificationLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:18:36.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDeliveryDriverService.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Services\\IDeliveryDriverService.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Interfaces\\Services\\IDeliveryDriverService.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Services\\IDeliveryDriverService.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Interfaces\\Services\\IDeliveryDriverService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:14:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeliveryDriverResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\DeliveryDriverResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\DeliveryDriverResponseDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\DeliveryDriverResponseDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\DeliveryDriverResponseDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:11:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMotorcycleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IMotorcycleRepository.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IMotorcycleRepository.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IMotorcycleRepository.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IMotorcycleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:57:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Repositories\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Infrastructure\\Repositories\\RentalRepository.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Infrastructure\\Repositories\\RentalRepository.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Infrastructure\\Repositories\\RentalRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:59:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRentalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IRentalRepository.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IRentalRepository.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IRentalRepository.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\Interfaces\\Repositories\\IRentalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:01:18.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RentalDto.cs",
+              "DocumentMoniker": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\RentalDto.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRental.Application\\DTOs\\RentalDto.cs",
+              "ToolTip": "C:\\Users\\vagner_santos\\source\\repos\\MotorcycleRental\\src\\MotorcycleRental.Application\\DTOs\\RentalDto.cs",
+              "RelativeToolTip": "src\\MotorcycleRental.Application\\DTOs\\RentalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:16:12.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
